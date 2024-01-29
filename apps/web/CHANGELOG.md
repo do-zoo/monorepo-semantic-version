@@ -1,5 +1,11 @@
 # web
 
+## 2.0.1
+
+### Patch Changes
+
+- 328eac5: Update App Title
+
 ## 2.0.0
 
 ### Major Changes
